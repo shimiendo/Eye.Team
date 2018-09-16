@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Eye.Team.Web.ViewModels.JogoExibicaoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DataJogo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtdeGolTime1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtdeGolTime2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdTime1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdTime2)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataJogo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdeGolTime1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdeGolTime2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTime1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTime2)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.IdJogo }) |
+                @Html.ActionLink("Details", "Details", new { id = item.IdJogo }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.IdJogo })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,5 @@
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Dominio\bin\Debug\Eye.Team.Dominio.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Dominio\bin\Debug\Eye.Team.Dominio.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Dominio\obj\Debug\Eye.Team.Dominio.csproj.CoreCompileInputs.cache
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Dominio\obj\Debug\Eye.Team.Dominio.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Dominio\obj\Debug\Eye.Team.Dominio.pdb

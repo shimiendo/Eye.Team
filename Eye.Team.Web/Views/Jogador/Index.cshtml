@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Eye.Team.Web.ViewModels.JogadorExibicaoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Idade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdTime)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTime)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.IdJogador }) |
+                @Html.ActionLink("Details", "Details", new { id = item.IdJogador }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.IdJogador })
+            </td>
+        </tr>
+    }
+
+</table>

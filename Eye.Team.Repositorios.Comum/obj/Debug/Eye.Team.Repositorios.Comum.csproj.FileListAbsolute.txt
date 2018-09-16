@@ -1,0 +1,6 @@
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\bin\Debug\Eye.Team.Repositorios.Comum.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\bin\Debug\Eye.Team.Repositorios.Comum.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\obj\Debug\Eye.Team.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\obj\Debug\Eye.Team.Repositorios.Comum.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\obj\Debug\Eye.Team.Repositorios.Comum.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorios.Comum\obj\Debug\Eye.Team.Repositorios.Comum.csprojAssemblyReference.cache

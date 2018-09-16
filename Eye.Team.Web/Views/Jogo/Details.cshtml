@@ -1,0 +1,58 @@
+﻿@model Eye.Team.Web.ViewModels.JogoExibicaoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Jogo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DataJogo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataJogo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtdeGolTime1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtdeGolTime1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtdeGolTime2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtdeGolTime2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdTime1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdTime1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdTime2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdTime2)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdJogo }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

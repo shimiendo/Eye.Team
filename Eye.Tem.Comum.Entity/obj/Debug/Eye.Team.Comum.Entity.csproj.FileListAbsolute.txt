@@ -1,0 +1,11 @@
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\Eye.Tem.Comum.Entity.dll.config
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\Eye.Tem.Comum.Entity.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\Eye.Tem.Comum.Entity.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\obj\Debug\Eye.Team.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\obj\Debug\Eye.Team.Comum.Entity.csproj.CopyComplete
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\obj\Debug\Eye.Tem.Comum.Entity.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Tem.Comum.Entity\obj\Debug\Eye.Tem.Comum.Entity.pdb

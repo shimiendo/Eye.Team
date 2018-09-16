@@ -1,0 +1,14 @@
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\Eye.Team.Repositorio.EntityFr.dll.config
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\Eye.Team.Repositorio.EntityFr.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\Eye.Team.Repositorio.EntityFr.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\EntityFramework.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\Eye.Team.Repositorios.Comum.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\Eye.Team.Repositorios.Comum.pdb
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\EntityFramework.xml
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\obj\Debug\Eye.Team.Repositorio.EntityFr.csprojAssemblyReference.cache
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\obj\Debug\Eye.Team.Repositorio.EntityFr.csproj.CoreCompileInputs.cache
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\obj\Debug\Eye.Team.Repositorio.EntityFr.csproj.CopyComplete
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\obj\Debug\Eye.Team.Repositorio.EntityFr.dll
+C:\Docs_Eduardo\Entrevistas e Testes\Eye.Team\Eye.Team.Repositorio.EntityFr\obj\Debug\Eye.Team.Repositorio.EntityFr.pdb
